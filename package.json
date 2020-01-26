@@ -1,0 +1,9 @@
+{
+  "author": {
+    "name": "Genomexyz",
+    "email": "nayrhum@gmail.com"
+  },
+  "dependencies": {
+    "amqp10": "^3.6.0"
+  }
+}
